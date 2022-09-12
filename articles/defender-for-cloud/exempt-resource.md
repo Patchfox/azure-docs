@@ -36,7 +36,7 @@ In such cases, you can create an exemption for a recommendation to:
 
 To fine-tune the security recommendations that Defender for Cloud makes for your subscriptions, management group, or resources, you can create an exemption rule to:
 
-- Mark a specific **recommendation** or as "mitigated" or "risk accepted". You can create recommendation exemptions for a subscription, multiple subscriptions, or an entire management group.
+- Mark a specific **recommendation** as "mitigated" or "risk accepted". You can create recommendation exemptions for a subscription, multiple subscriptions, or an entire management group.
 - Mark **one or more resources** as "mitigated" or "risk accepted" for a specific recommendation.
 
 > [!NOTE]
